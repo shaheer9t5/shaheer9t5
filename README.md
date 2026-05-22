@@ -1,4 +1,4 @@
-# Shaheer Ahmad
+# Shaheer Seby
 
 Building AI-native SaaS platforms, scalable backend systems, and cloud infrastructure with a strong focus on automation, distributed systems, and production-grade engineering.
 
