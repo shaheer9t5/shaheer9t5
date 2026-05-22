@@ -8,7 +8,7 @@
 
 ## Philosophy
 
-I enjoy building systems that are not only functional, but scalable, maintainable, and production-ready — combining software engineering, infrastructure, and AI into cohesive products that solve real-world problems.
+I enjoy building systems that are not only functional, but scalable, maintainable, and production-ready; combining software engineering, infrastructure, and AI into cohesive products that solve real-world problems.
 
 
 
