@@ -1,3 +1,9 @@
+## Contribution Graph
+
+![pacman contribution graph](https://github.com/shaheer9t5/shaheer9t5/blob/output/pacman-contribution-graph-dark.svg)
+
+---
+
 # Shaheer Seby
 
 Building AI-native SaaS platforms, scalable backend systems, and cloud infrastructure with a strong focus on automation, distributed systems, and production-grade engineering.
