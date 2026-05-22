@@ -1,5 +1,3 @@
-## Contribution Graph
-
 <!-- pacman -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaheer9t5/shaheer9t5/output/pacman-contribution-graph-dark.svg">
@@ -7,15 +5,11 @@
     <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/shaheer9t5/shaheer9t5/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-# Shaheer Seby
 
 Building AI-native SaaS platforms, scalable backend systems, and cloud infrastructure with a strong focus on automation, distributed systems, and production-grade engineering.
 
 Currently focused on architecting high-performance products that combine modern web technologies, AI workflows, real-time systems, and scalable infrastructure.
 
----
 
 ## What I’m Building
 
