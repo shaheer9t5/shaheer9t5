@@ -1,6 +1,11 @@
 ## Contribution Graph
 
-![pacman contribution graph](https://github.com/shaheer9t5/shaheer9t5/blob/output/pacman-contribution-graph-dark.svg)
+<!-- pacman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaheer9t5/shaheer9t5/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaheer9t5/shaheer9t5/output/pacman-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/shaheer9t5/shaheer9t5/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
