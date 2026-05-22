@@ -6,9 +6,10 @@
 </picture>
 
 
-Building AI-native SaaS platforms, scalable backend systems, and cloud infrastructure with a strong focus on automation, distributed systems, and production-grade engineering.
+## Philosophy
 
-Currently focused on architecting high-performance products that combine modern web technologies, AI workflows, real-time systems, and scalable infrastructure.
+I enjoy building systems that are not only functional, but scalable, maintainable, and production-ready — combining software engineering, infrastructure, and AI into cohesive products that solve real-world problems.
+
 
 
 ## What I’m Building
@@ -93,8 +94,4 @@ Git • Cursor • Claude • Jira • Postman • SSH • Terminal-first workfl
 - Designing robust multi-tenant SaaS architectures
 - Creating automation-heavy developer systems
 
----
 
-## Philosophy
-
-I enjoy building systems that are not only functional, but scalable, maintainable, and production-ready — combining software engineering, infrastructure, and AI into cohesive products that solve real-world problems.
